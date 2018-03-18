@@ -1,0 +1,712 @@
+/*---queries for responsive----*/
+
+
+
+@media only screen and (max-width: 950px) {
+    
+    header {
+        width: 100%;
+        height: 500px;
+    }
+    
+    .header-cont {
+        margin-top: 60px;
+    }
+    
+    
+    
+    #particles {
+        background-repeat: no-repeat;
+        background-position: right;
+        background-attachment: fixed;
+        background-size: auto;
+    }
+    
+    .icon-big {
+        font-size: 30px;
+        font-weight: 200;
+        width: 35px;
+        height: 35px;
+        display: block;
+        margin-bottom: 10px;
+    }
+    
+    .nav-a-third {
+        margin-right: 20px;
+        float: right;
+    }
+    
+    .main-nav li {
+        float: left;
+    }
+    .nav-a-first {
+        float: left;
+        margin-left: 20px;
+    }
+   
+    h1 {
+        font-size: 40px;
+    }
+    
+    h2 {
+        font-size: 60px;
+    }
+    
+    .icon-social {
+        margin-top: 10px;
+        width: 100%;
+        font-size: 25px;
+    }
+    
+    .row-3 {
+        float: left;
+    }  
+    
+    .social-links h4 {
+        float: left;
+        margin-left: 20px;
+    }
+    
+    h4 {
+        font-size: 25px;
+    }
+    
+    .language-bar h4 {
+        font-size: 40px;
+    }
+    
+    .social-links {
+        height: 70px;
+    }
+    
+    .close-social {
+        float: right;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 25px;
+    }
+    
+    .btn-little {
+        font-weight: 100;
+        text-decoration: none;
+        font-size: 25px;
+    }
+    
+    .mot-contetnt {
+        width: 90%;
+        margin-left: 5%;
+    }
+    footer {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+        border: 1px solid transparent;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../../resources/img/background.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    footer p {
+        font-size: 17px;
+    }
+    
+    footer .span-1-of-2 {
+        width: 100%;
+    }
+    
+    footer h5,
+    footer h6 {
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+    }
+    
+    footer h4 {
+        margin-top: 40px;
+        font-size: 45px;
+    }
+    
+    .more-info h3{
+        font-size: 50px;
+    }
+    
+    .more-info h5 {
+        font-size: 30px;
+    }
+    .more-info p {
+        font-size: 28px;   
+    }
+    
+    .contact h3 {
+        font-size: 50px;
+    }
+    
+    .contact p {
+        font-size: 35px;
+    }
+    
+    .contact .contact-form {
+        margin-top: 20px;
+    }
+    
+    .contact label {
+        font-size: 35px;
+    }
+    
+    .name-input,
+    .email-input,
+    .find-input,
+    .text-input {
+        width: 90%;
+        font-size: 25px;
+    }
+    
+    .rev5input {
+        margin-top: 20px;
+    }
+    
+    .btn-work {
+        font-size: 45px;
+    }
+    
+    .my-other	{ ; 
+        animation: animatedBackground 20s linear infinite;
+    }
+
+    .work {
+        animation: animatedBackground2 20s linear infinite;
+    }
+    
+    .container-for-3dmotion {
+        height: 232px;
+    }
+
+    #comp,
+    #viewport {
+        height: 232px;
+    }
+    
+    .laptop-container,
+    .ipad-container {
+        height: 232px;
+        width: 420px;
+    }
+    
+    .my-mot {
+        height: inherit;
+    }
+    
+    footer {
+        height: inherit;
+    }
+    
+    .more-info {
+        height: inherit;
+    }
+    
+    .contact {
+        height: inherit;
+    }
+    
+    .work {
+        height: inherit;
+    }
+    
+}
+
+
+
+
+@media only screen and (max-width: 688px) {
+    
+    header {
+        width: 100%;
+        height: 500px;
+    }
+    
+    #particles {
+        background-repeat: no-repeat;
+        background-position: right;
+        background-attachment: fixed;
+        background-size: auto;
+    }
+    
+    .icon-big {
+        font-size: 26px;
+        font-weight: 200;
+        width: 32px;
+        height: 32px;
+        display: block;
+        margin-bottom: 10px;
+    }
+    
+    .nav-a-third {
+        margin-right: 20px;
+        float: right;
+    }
+    
+    .main-nav li {
+        float: left;
+    }
+    .nav-a-first {
+        float: left;
+        margin-left: 20px;
+    }
+   
+    h1 {
+        font-size: 30px;
+    }
+    
+    h2 {
+        margin-top: 50px;
+        font-size: 45px;
+    }
+    
+    h3 {
+        font-size: 40px;
+    }
+    
+    .btn {
+        margin-top: 40px;
+        font-size: 40px;
+    }
+    
+    .icon-social {
+        margin-top: 10px;
+        width: 100%;
+        font-size: 23px;
+    }
+    
+    .row-3 {
+        float: left;
+    }  
+    
+    .social-links h4 {
+        float: left;
+        margin-left: 20px;
+    }
+    
+    h4 {
+        font-size: 23px;
+    }
+    .row-3-3 {
+        float: left;
+    }
+    
+    .social-links {
+        height: 65px;
+    }
+    
+    .close-social {
+        float: right;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 22px;
+    }
+    
+    .btn-little {
+        font-weight: 100;
+        text-decoration: none;
+        font-size: 25px;
+    }
+    
+    .mot-contetnt {
+        width: 90%;
+        margin-left: 5%;
+        font-size: 25px;
+    }
+    
+    .btn-def {
+        font-size: 45px;
+    }
+    
+    footer {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+        border: 1px solid transparent;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../../resources/img/background.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    footer p {
+        font-size: 12px;
+    }
+    
+    footer .span-1-of-2 {
+        width: 100%;
+    }
+    
+    footer h5,
+    footer h6 {
+        font-size: 30px;
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+    }
+    
+    footer h4 {
+        margin-top: 40px;
+        font-size: 45px;
+    }
+    
+    footer .padding-top-40px {
+        padding-top: 20px;
+    }
+    
+    .modal .col {
+        width: 100%;
+        height: 50px;
+    }
+    
+    .modal .col a {
+        font-size: 30px;
+    }
+    
+    .close-menu {
+        font-size: 30px;
+        margin-top: 10px;
+    }
+    
+     .more-info h3{
+        font-size: 40px;
+    }
+    
+    .more-info h5 {
+        font-size: 25px;
+    }
+    .more-info p {
+        font-size: 24px;
+        width: 90%;
+        margin-left: 5%;
+    }
+    
+    .more-info .margin-top-60px {
+        margin-top: 30px;
+    }
+    
+    .more-info .skills {
+        margin-top: 30px;
+    }
+    
+    .more-info .moving-ball {
+        width: 40px;
+        height: 40px;
+    }
+    
+
+    .more-info .row2 {
+        margin-top: 65px;
+    }
+    .more-info .row3 {
+        margin-top: 125px;
+    }
+    .more-info .row4 {
+        margin-top: 265px;
+    }
+    .more-info .row5 {
+        margin-top: 365px;
+    }
+    .more-info .row6 {
+        margin-top: 465px;
+    }
+    .more-info .row7 {
+        margin-top: 525px;
+    }
+
+    
+    .contact .row1 {
+    margin-top: 60px;
+    }
+    .contact .row2 {
+        margin-top: 200px;
+    }
+    .contact .row3 {
+        margin-top: 380px;
+    }
+
+    .contact .col2 {
+        margin-left: 200px;
+    }
+    .contact .col3{
+        margin-left: 400px;
+    }
+    .contact .col4 {
+        margin-left: 600px;
+    }
+    .contact .col5 {
+        margin-left: 800px;
+    }
+
+    @keyframes pataradidipatara {
+      0% {
+        transform: rotate(-180deg);
+        opacity: 1;
+        width: 0px;
+        height: 0px;
+      }
+      50% {
+        transform: rotate(0deg);
+        opacity: 1;
+        width: 200px;
+        height: 200px;
+      }
+      100% {
+        transform: rotate(180deg);
+        opacity: 1;
+        width: 0px;
+        height: 0px;
+      }
+    }
+    
+    .btn-work {
+        font-size: 43px;
+    }
+    
+    .my-other	{ ; 
+        animation: animatedBackground 8s linear infinite;
+    }
+
+    .work {
+        animation: animatedBackground2 8s linear infinite;
+    }
+    
+    @keyframes animatedBackground {
+        from { background-position: 0 0;}
+        to { background-position: 1000% 0; }
+    }
+
+    @keyframes animatedBackground2 {
+        from { background-position:  1000% 0; }
+        to { background-position: 0 0; }
+    }
+    
+}
+
+
+@media only screen and (max-width: 510px) {
+    
+    header {
+        width: 100%;
+        height: 500px;
+    }
+    
+    #particles {
+        background-repeat: no-repeat;
+        background-position: right;
+        background-attachment: fixed;
+        background-size: auto;
+    }
+    
+    .icon-big {
+        font-size: 14px;
+        font-weight: 200;
+        width: 20px;
+        height: 20px;
+        display: block;
+        margin-bottom: 10px;
+    }
+    
+    .nav-a-third {
+        margin-right: 5px;
+        float: right;
+    }
+    
+    .main-nav li {
+        float: left;
+    }
+    .nav-a-first {
+        float: left;
+        margin-left: 10px;
+    }
+   
+    h1 {
+        margin-top: -3px;
+        font-size: 20px;
+    }
+    
+    h2 {
+        margin-top: 42px;
+        font-size: 45px;
+    }
+    
+    h3 {
+        font-size: 42px;
+    }
+    
+    .btn {
+        margin-top: 40px;
+        font-size: 35px;
+    }
+    
+    .icon-social {
+        margin-top: 20px;
+        width: 100%;
+        font-size: 18px;
+    }
+    
+    .row-3 {
+        float: left;
+    }  
+    
+    .social-links h4 {
+        float: left;
+        margin-left: 20px;
+    }
+    
+    h4 {
+        font-size: 15px;
+    }
+    .row-3-3 {
+        float: left;
+    }
+    
+    .social-links {
+        height: 65px;
+    }
+    
+    .close-social {
+        float: right;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-size: 22px;
+    }
+    
+    .btn-little {
+        font-weight: 100;
+        text-decoration: none;
+        font-size: 18px;
+    }
+    
+    .mot-contetnt {
+        width: 90%;
+        margin-left: 5%;
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    
+    .btn-def {
+        font-size: 45px;
+    }
+    
+    footer {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 30px;
+        padding-right: 30px;
+        border: 1px solid transparent;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../../resources/img/background.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    footer p {
+        font-size: 10px;
+    }
+    
+    footer .span-1-of-2 {
+        width: 100%;
+    }
+    
+    footer h5,
+    footer h6 {
+        font-size: 25px;
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+    }
+    
+    footer h4 {
+        margin-top: 30px;
+        font-size: 35px;
+    }
+    
+    footer .padding-top-40px {
+        padding-top: 20px;
+    }
+    
+    .footer-icon {
+        font-size: 30px;
+    }
+    
+    .modal .col {
+        width: 100%;
+        height: 50px;
+    }
+    
+    .modal .col a {
+        font-size: 30px;
+    }
+    
+    .close-menu {
+        font-size: 30px;
+        margin-top: 10px;
+    }
+    
+    .contact h3 {
+        font-size: 40px;
+    }
+    
+    .contact p {
+        width: 90%;
+        margin-left: 5%;
+        font-size: 30px;
+    }
+    
+    .contact .contact-form {
+        margin-top: 15px;
+    }
+    
+    .contact label {
+        font-size: 30px;
+    }
+    
+    .name-input,
+    .email-input,
+    .find-input,
+    .text-input {
+        width: 90%;
+        font-size: 22px;
+    }
+    
+    .rev5input {
+        margin-top: 20px;
+    }
+    
+    .work h4 {
+        font-size: 35px;
+    }
+    
+    .container-for-3dmotion {
+        height: 122px;
+    }
+
+    #comp,
+    #viewport {
+        height: 122px;
+    }
+    
+    .laptop-container {
+        height: 122px;
+        width: 230px;
+    }
+    
+    .ipad-container {
+        height: 122px;
+        width: 230px;
+    }
+    
+    .btn-next {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .language-bar {
+        bottom: 0;
+        right: 1px;
+    }
+}
